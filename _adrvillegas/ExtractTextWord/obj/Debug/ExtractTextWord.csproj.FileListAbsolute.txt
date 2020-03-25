@@ -1,0 +1,6 @@
+C:\Users\AdrCast\source\repos\ExtractTextWord\bin\Debug\ExtractTextWord.exe.config
+C:\Users\AdrCast\source\repos\ExtractTextWord\bin\Debug\ExtractTextWord.exe
+C:\Users\AdrCast\source\repos\ExtractTextWord\bin\Debug\ExtractTextWord.pdb
+C:\Users\AdrCast\source\repos\ExtractTextWord\obj\Debug\ExtractTextWord.csprojAssemblyReference.cache
+C:\Users\AdrCast\source\repos\ExtractTextWord\obj\Debug\ExtractTextWord.exe
+C:\Users\AdrCast\source\repos\ExtractTextWord\obj\Debug\ExtractTextWord.pdb
